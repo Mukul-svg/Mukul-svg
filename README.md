@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Mukul-svg
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Backend Development
 - 📫 How to reach me - LinkedIn - https://www.linkedin.com/in/mukul-raghav-8a8313201/
 
 <!---

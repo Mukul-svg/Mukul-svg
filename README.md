@@ -8,7 +8,7 @@ I'm a Software Engineer based in Bangalore, India. I currently work at Chubb, wh
 * **Full-Stack Engineering:** Shipping scalable applications and real-time dashboards using Go, Python, Java, and React/Angular.
 
 ### Featured Projects
-* **Tark (PaaS):** A cloud-agnostic platform that provisions isolated Kubernetes clusters across AWS, Azure, and Oracle Cloud using Pulumi. It handles AI model deployments, complete with RBAC, guardrails, and usage-based cost tracking via LiteLLM.
+* **tark:** A cloud-agnostic platform that provisions isolated Kubernetes clusters across AWS, Azure, and Oracle Cloud using Pulumi. It handles AI model deployments, complete with RBAC, guardrails, and usage-based cost tracking via LiteLLM.
 * **mapr-go:** Implementation of map reduce paper in go.
 ### My Stack
 * **Languages:** Go, Python, Java, TypeScript, JavaScript

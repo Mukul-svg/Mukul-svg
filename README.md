@@ -3,8 +3,8 @@
 I'm a Software Engineer based in Bangalore, India. I currently work at Chubb, where I build AI infrastructure, developer productivity tools, and cloud-native automation systems. I focus on building tools that speed up engineering velocity and improve CI/CD reliability.
 
 ### What I Do
-* **AI Infrastructure:** Orchestrating GPU (vLLM) and CPU (llama.cpp) inference workloads on Kubernetes.
-* **Developer Tools:** Building platforms to automate testing and modernize legacy systems.
+* **Infrastructure:** Orchestrating GPU (vLLM) and CPU (llama.cpp) inference workloads on Kubernetes.
+* **AI Developer Tools:** Building AI agents to automate testing and modernize legacy systems.
 * **Full-Stack Engineering:** Shipping scalable applications and real-time dashboards using Go, Python, Java, and React/Angular.
 
 ### Featured Projects
@@ -17,6 +17,6 @@ I'm a Software Engineer based in Bangalore, India. I currently work at Chubb, wh
 * **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Qdrant
 
 ### Let's Connect
-* **Me :** [@solo69](https://solo69.vercel.app/)
+* **Me :** [@Portfolio](https://solo69.vercel.app/)
 * **X (Twitter):** [@\_\_solo69\_\_](https://x.com/__solo69__)
 * **LinkedIn:** [Mukul Raghav](https://www.linkedin.com/in/mukul-raghav-8a8313201/)

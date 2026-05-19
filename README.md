@@ -10,6 +10,7 @@ I'm a Software Engineer based in Bangalore, India. I currently work at Chubb, wh
 ### Featured Projects
 * **tark:** A cloud-agnostic platform that provisions isolated Kubernetes clusters across AWS, Azure, and Oracle Cloud using Pulumi. It handles AI model deployments, complete with RBAC, guardrails, and usage-based cost tracking via LiteLLM.
 * **notchd:** notchd sits between webhook providers (Stripe, GitHub, Slack) and your app. It receives webhooks instantly, persists them to an embedded SQLite database, and delivers them to your app with automatic retry, dead-letter queue, and event replay — all in a single binary with no external dependencies.
+* **ship:** a raft consensus implementation in golang with simulated test cases.
 
 ### My Stack
 * **Languages:** Go, Python, Java, TypeScript, JavaScript

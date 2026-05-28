@@ -21,3 +21,4 @@ I'm a Software Engineer based in Bangalore, India. I currently work at Chubb, wh
 ### Let's Connect
 * **Me :** [@Portfolio](https://solo69.vercel.app/)
 * **LinkedIn:** [Mukul Raghav](https://www.linkedin.com/in/mukul-raghav-8a8313201/)
+* **X :** [@__solo69__](https://x.com/__solo69__)

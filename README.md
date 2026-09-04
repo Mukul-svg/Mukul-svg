@@ -1,4 +1,4 @@
-# Hey, I'm Mukul Raghav 👋
+# Hey, I'm Mukul Raghav
 
 I'm a Software Engineer based in Bangalore, India. I currently work at Chubb, where I build AI infrastructure, developer productivity tools, and cloud-native automation systems. I focus on building tools that speed up engineering velocity and improve CI/CD reliability.
 
